@@ -17,6 +17,8 @@ An interactive Power BI dashboard designed to analyze store sales performance an
 
 ## Dashboard Preview
 
+![Dashboard](dashboard.png.png)
+
 
 
 ---
